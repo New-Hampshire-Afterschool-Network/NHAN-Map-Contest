@@ -1,5 +1,5 @@
 ---
-Welcome!: NHAN Mapping Contest
+Title: NHAN Mapping Contest
 ---
 
 Will this work!
