@@ -1,1 +1,4 @@
 theme: minima
+
+minima:
+  show_excerpts: true
