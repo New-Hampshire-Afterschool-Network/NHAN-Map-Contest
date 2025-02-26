@@ -10,6 +10,8 @@
 <img src=https://github.com/steam-coordinator/NHAN-Map-Contest/blob/main/docs/assets/images/NHAN19_LOGO_HR.jpg alt=celebrate width=300 align=left>
 
 <br>
+<br>
+<br>
 
 # NHAN Mapping Contest
 
