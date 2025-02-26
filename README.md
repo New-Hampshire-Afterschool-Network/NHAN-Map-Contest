@@ -6,7 +6,9 @@
   In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
   Add your open source license, GitHub uses MIT license.
 -->
+
 <img src=https://github.com/steam-coordinator/NHAN-Map-Contest/blob/main/docs/assets/images/NHAN19_LOGO_HR.jpg alt=celebrate width=300 align=left>
+
 
 # NHAN Mapping Contest
 
