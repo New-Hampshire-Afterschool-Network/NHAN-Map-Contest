@@ -6,7 +6,7 @@
   In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
   Add your open source license, GitHub uses MIT license.
 -->
-
+<img src=https://github.com/steam-coordinator/NHAN-Map-Contest/blob/main/docs/assets/images/NHAN19_LOGO_HR.jpg alt=celebrate width=300 align=right>
 # NHAN Mapping Contest
 
 _Looking for GIS professionals, mapping hobbyists, and interested learners. We are interested in getting the word out about the current state of New Hampshire Out-of-School time facilities. We have collected data to understand the current population and geographic distribution of students in New Hampshire and the availability of Out-of-School time providers. The Out-of-School time environment is an oppertunity for kids to explore science, technology, engineering, math, physical education, and other topics in a youth lead format. We need your help visualizing this data in an attempt to tell the story of what kids have out there for oppertunities and help drive the future building of this space_
@@ -20,7 +20,7 @@ _Looking for GIS professionals, mapping hobbyists, and interested learners. We a
 
 ## A $1000 prize, Spead the word! 
 
-<img src=https://github.com/steam-coordinator/NHAN-Map-Contest/blob/main/docs/assets/images/NHAN19_LOGO_HR.jpg alt=celebrate width=300 align=right>
+
 
 Head over to our Collected Data repository and check out the data provided. Come up with a way to visualize this data that tells the story of New Hampshire students and the available locations where youth have access to the benifits of Out-of-School time. 
 
