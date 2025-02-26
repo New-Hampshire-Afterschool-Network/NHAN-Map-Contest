@@ -20,7 +20,7 @@ _Looking for GIS professionals, mapping hobbyists, and interested learners. We a
 
 ## A $1000 prize, Spead the word! 
 
-<img src=https://octodex.github.com/images/constructocat2.jpg alt=celebrate width=300 align=right>
+<img src=https://github.com/steam-coordinator/NHAN-Map-Contest/blob/main/docs/assets/images/NHAN19_LOGO_HR.jpg alt=celebrate width=300 align=right>
 
 Head over to our Collected Data repository and check out the data provided. Come up with a way to visualize this data that tells the story of New Hampshire students and the available locations where youth have access to the benifits of Out-of-School time. 
 
